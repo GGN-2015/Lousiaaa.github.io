@@ -1,5 +1,5 @@
 h2{
-  color:#CC0099;
+  color:#660066;
   font-size:30px;
 }
 body{
@@ -8,7 +8,7 @@ body{
   margin-right:auto;
   border-width:5px;
   border-style:solid;
-  border-color:pink;
+  border-color:#66FFCC;
   border-radius:5px;
 }
 #p.a{
